@@ -794,5 +794,41 @@
   "Shark Attack": {
     "id": 3201,
     "image_link": "https://wiki.teamfortress.com/w/images/a/ae/Unusual_Shark_Attack.png"
+  },
+  "Snow Dome": {
+    "id": 3213,
+    "image_link": "https://wiki.teamfortress.com/w/images/2/2b/Unusual_Snow_Dome_RED.png"
+  },
+  "Scorching Sensation": {
+    "id": 3215,
+    "image_link": "https://wiki.teamfortress.com/w/images/9/9e/Unusual_Scorching_Sensation.png"
+  },
+  "Burning Sensation": {
+    "id": 3216,
+    "image_link": "https://wiki.teamfortress.com/w/images/f/fe/Unusual_Burning_Sensation.png"
+  },
+  "Galactic Dust": {
+    "id": 3217,
+    "image_link": "https://wiki.teamfortress.com/w/images/1/1d/Unusual_Galactic_Dust.png"
+  },
+  "Galactic Cloud": {
+    "id": 3218,
+    "image_link": "https://wiki.teamfortress.com/w/images/e/e4/Unusual_Galactic_Cloud.png"
+  },
+  "Aurora Aura": {
+    "id": 3219,
+    "image_link": "https://wiki.teamfortress.com/w/images/2/26/Unusual_Aurora_Aura_RED.png"
+  },
+  "Northern Nights": {
+    "id": 3221,
+    "image_link": "https://wiki.teamfortress.com/w/images/6/67/Unusual_Northern_Nights.png"
+  },
+  "Chilling Mist": {
+    "id": 3222,
+    "image_link": "https://wiki.teamfortress.com/w/images/4/4b/Unusual_Chilling_Mist.png"
+  },
+  "Circuit Break": {
+    "id": 3223,
+    "image_link": "https://wiki.teamfortress.com/w/images/c/ce/Unusual_Circuit_Break.png"
   }
 }
