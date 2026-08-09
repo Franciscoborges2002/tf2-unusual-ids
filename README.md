@@ -2,6 +2,9 @@
 
 JSON datasets mapping Team Fortress 2 **Unusual** particle effect IDs to their names, for hats (cosmetics), taunts, and weapons.
 
+- GitHub: https://github.com/Franciscoborges2002/tf2-unusual-ids
+- Codeberg: https://codeberg.org/fborges02/tf2-unusual-ids
+
 ## Categories
 
 | Category | ID range | Count |
