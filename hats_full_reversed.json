@@ -1450,5 +1450,49 @@
   "378": {
     "name": "Decimating Wind",
     "image_link": "https://wiki.teamfortress.com/w/images/5/5d/Unusual_Decimating_Wind.png"
+  },
+  "393": {
+    "name": "Chromatic Blaze",
+    "image_link": "https://wiki.teamfortress.com/w/images/a/ad/Unusual_Chromatic_Blaze.png"
+  },
+  "394": {
+    "name": "Frostfire",
+    "image_link": "https://wiki.teamfortress.com/w/images/d/d6/Unusual_Frostfire.png"
+  },
+  "395": {
+    "name": "Spectrum Inferno",
+    "image_link": "https://wiki.teamfortress.com/w/images/d/dd/Unusual_Spectrum_Inferno.png"
+  },
+  "396": {
+    "name": "Calm Snowfall",
+    "image_link": "https://wiki.teamfortress.com/w/images/4/42/Unusual_Calm_Snowfall.png"
+  },
+  "397": {
+    "name": "Team Recognition",
+    "image_link": "https://wiki.teamfortress.com/w/images/a/a1/Unusual_Team_Recognition_RED.png"
+  },
+  "399": {
+    "name": "Old Hire",
+    "image_link": "https://wiki.teamfortress.com/w/images/5/5b/Unusual_Old_Hire_RED.png"
+  },
+  "401": {
+    "name": "Analog Fortress",
+    "image_link": "https://wiki.teamfortress.com/w/images/7/71/Unusual_Analog_Fortress.png"
+  },
+  "402": {
+    "name": "Winter Whiteout",
+    "image_link": "https://wiki.teamfortress.com/w/images/b/b9/Unusual_Winter_Whiteout.png"
+  },
+  "403": {
+    "name": "Midnight Frostfall",
+    "image_link": "https://wiki.teamfortress.com/w/images/9/93/Unusual_Midnight_Frostfall.png"
+  },
+  "404": {
+    "name": "Twilight Snowfall",
+    "image_link": "https://wiki.teamfortress.com/w/images/9/93/Unusual_Twilight_Snowfall.png"
+  },
+  "405": {
+    "name": "Cryogenic",
+    "image_link": "https://wiki.teamfortress.com/w/images/3/30/Unusual_Cryogenic.png"
   }
 }

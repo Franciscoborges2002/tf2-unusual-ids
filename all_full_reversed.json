@@ -1451,6 +1451,50 @@
     "name": "Decimating Wind",
     "image_link": "https://wiki.teamfortress.com/w/images/5/5d/Unusual_Decimating_Wind.png"
   },
+  "393": {
+    "name": "Chromatic Blaze",
+    "image_link": "https://wiki.teamfortress.com/w/images/a/ad/Unusual_Chromatic_Blaze.png"
+  },
+  "394": {
+    "name": "Frostfire",
+    "image_link": "https://wiki.teamfortress.com/w/images/d/d6/Unusual_Frostfire.png"
+  },
+  "395": {
+    "name": "Spectrum Inferno",
+    "image_link": "https://wiki.teamfortress.com/w/images/d/dd/Unusual_Spectrum_Inferno.png"
+  },
+  "396": {
+    "name": "Calm Snowfall",
+    "image_link": "https://wiki.teamfortress.com/w/images/4/42/Unusual_Calm_Snowfall.png"
+  },
+  "397": {
+    "name": "Team Recognition",
+    "image_link": "https://wiki.teamfortress.com/w/images/a/a1/Unusual_Team_Recognition_RED.png"
+  },
+  "399": {
+    "name": "Old Hire",
+    "image_link": "https://wiki.teamfortress.com/w/images/5/5b/Unusual_Old_Hire_RED.png"
+  },
+  "401": {
+    "name": "Analog Fortress",
+    "image_link": "https://wiki.teamfortress.com/w/images/7/71/Unusual_Analog_Fortress.png"
+  },
+  "402": {
+    "name": "Winter Whiteout",
+    "image_link": "https://wiki.teamfortress.com/w/images/b/b9/Unusual_Winter_Whiteout.png"
+  },
+  "403": {
+    "name": "Midnight Frostfall",
+    "image_link": "https://wiki.teamfortress.com/w/images/9/93/Unusual_Midnight_Frostfall.png"
+  },
+  "404": {
+    "name": "Twilight Snowfall",
+    "image_link": "https://wiki.teamfortress.com/w/images/9/93/Unusual_Twilight_Snowfall.png"
+  },
+  "405": {
+    "name": "Cryogenic",
+    "image_link": "https://wiki.teamfortress.com/w/images/3/30/Unusual_Cryogenic.png"
+  },
   "701": {
     "name": "Hot",
     "image_link": "https://wiki.teamfortress.com/w/images/d/d3/Unusual_Hot.png"
@@ -2262,5 +2306,41 @@
   "3201": {
     "name": "Shark Attack",
     "image_link": "https://wiki.teamfortress.com/w/images/a/ae/Unusual_Shark_Attack.png"
+  },
+  "3213": {
+    "name": "Snow Dome",
+    "image_link": "https://wiki.teamfortress.com/w/images/2/2b/Unusual_Snow_Dome_RED.png"
+  },
+  "3215": {
+    "name": "Scorching Sensation",
+    "image_link": "https://wiki.teamfortress.com/w/images/9/9e/Unusual_Scorching_Sensation.png"
+  },
+  "3216": {
+    "name": "Burning Sensation",
+    "image_link": "https://wiki.teamfortress.com/w/images/f/fe/Unusual_Burning_Sensation.png"
+  },
+  "3217": {
+    "name": "Galactic Dust",
+    "image_link": "https://wiki.teamfortress.com/w/images/1/1d/Unusual_Galactic_Dust.png"
+  },
+  "3218": {
+    "name": "Galactic Cloud",
+    "image_link": "https://wiki.teamfortress.com/w/images/e/e4/Unusual_Galactic_Cloud.png"
+  },
+  "3219": {
+    "name": "Aurora Aura",
+    "image_link": "https://wiki.teamfortress.com/w/images/2/26/Unusual_Aurora_Aura_RED.png"
+  },
+  "3221": {
+    "name": "Northern Nights",
+    "image_link": "https://wiki.teamfortress.com/w/images/6/67/Unusual_Northern_Nights.png"
+  },
+  "3222": {
+    "name": "Chilling Mist",
+    "image_link": "https://wiki.teamfortress.com/w/images/4/4b/Unusual_Chilling_Mist.png"
+  },
+  "3223": {
+    "name": "Circuit Break",
+    "image_link": "https://wiki.teamfortress.com/w/images/c/ce/Unusual_Circuit_Break.png"
   }
 }
