@@ -36,7 +36,7 @@ Some Unusual effects render differently for RED and BLU and use two separate eff
 {
   "Burning Flames": {
     "id": 13,
-    "image_link": "https://wiki.teamfortress.com/wiki/File:Unusual_Burning_Flames.png"
+    "image_link": "https://wiki.teamfortress.com/w/images/a/ad/Unusual_Burning_Flames.png"
   }
 }
 ```
