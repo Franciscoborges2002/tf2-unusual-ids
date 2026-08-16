@@ -1,6 +1,6 @@
 # tf2UnusualIds
 
-JSON datasets mapping Team Fortress 2 **Unusual** particle effect IDs to their names, for hats (cosmetics), taunts, and weapons.
+JSON datasets mapping Team Fortress 2 **Unusual** particle effect defindexes to their names, for hats (cosmetics), taunts, and weapons.
 
 - GitHub: https://github.com/Franciscoborges2002/tf2-unusual-ids
 - Codeberg: https://codeberg.org/fborges02/tf2-unusual-ids
@@ -9,28 +9,21 @@ JSON datasets mapping Team Fortress 2 **Unusual** particle effect IDs to their n
 
 | Category | ID range | Count |
 |---|---|---|
-| Hats (cosmetics) | 0–378 | 363 |
-| Taunts | 3001–3201 | 199 |
+| Hats (cosmetics) | 0–415 | 354 |
+| Taunts | 3001–3229 | 190 |
 | Weapons | 701–704 | 4 |
-| All (combined) | — | 566 |
+| All (combined) | — | 548 |
+
+IDs match the game's actual defindex values, verified 1:1 against the item schema. Note that RED/BLU team-colored effects (e.g. Aces High, Old Hire) share a single defindex — the wiki documents both colors as separate preview images, but there's only one effect ID per pair.
 
 Each category has 4 files, and there's a combined `all_*` set covering every category together:
 
 - `<category>_simple.json` — `{ "Effect Name": id, ... }`
 - `<category>_simple_reversed.json` — `{ "id": "Effect Name", ... }`
-- `<category>_full.json` — `{ "Effect Name": { "id": id, "wiki_link": url }, ... }`
-- `<category>_full_reversed.json` — `{ "id": { "name": "Effect Name", "wiki_link": url }, ... }`
+- `<category>_full.json` — `{ "Effect Name": { "id": id, "image_link": url }, ... }`
+- `<category>_full_reversed.json` — `{ "id": { "name": "Effect Name", "image_link": url }, ... }`
 
-`wiki_link` points to the effect's image file page on the [official TF2 wiki](https://wiki.teamfortress.com/wiki/Unusual) (e.g. `https://wiki.teamfortress.com/wiki/File:Unusual_Burning_Flames.png`). It's `null` for a handful of entries that aren't real documented effects (unused/debug particle slots) or that are too new to be on the wiki yet.
-
-## Team-colored effects
-
-Some Unusual effects render differently for RED and BLU and use two separate effect IDs — one per team. These appear as two entries sharing a base name, disambiguated with a suffix, e.g.:
-
-```json
-"Aces High (RED)": 55,
-"Aces High (BLU)": 59
-```
+`image_link` points directly to the effect's preview image on the [official TF2 wiki](https://wiki.teamfortress.com/wiki/Unusual). It's `null` for a handful of entries that aren't real documented effects (unused/debug particle slots, defindex 0–5/20/28) or that are too new to have an image uploaded yet.
 
 ## Example
 
@@ -46,4 +39,4 @@ Some Unusual effects render differently for RED and BLU and use two separate eff
 
 ## Source
 
-Effect IDs were supplied manually; names were cross-checked and wiki links were resolved against [wiki.teamfortress.com](https://wiki.teamfortress.com/wiki/Unusual).
+Defindexes were sourced from the game's item schema; names and image links were cross-checked against [wiki.teamfortress.com](https://wiki.teamfortress.com/wiki/Unusual).

@@ -148,16 +148,12 @@
     "image_link": "https://wiki.teamfortress.com/w/images/a/a2/Unusual_Harvest_Moon.png"
   },
   "46": {
-    "name": "It's A Secret To Everybody",
+    "name": "It's a Secret to Everybody",
     "image_link": "https://wiki.teamfortress.com/w/images/3/35/Unusual_It%27s_A_Secret_To_Everybody.png"
   },
   "47": {
     "name": "Stormy 13th Hour",
     "image_link": "https://wiki.teamfortress.com/w/images/4/4e/Unusual_Stormy_13th_Hour.png"
-  },
-  "55": {
-    "name": "Aces High (RED)",
-    "image_link": "https://wiki.teamfortress.com/w/images/6/64/Unusual_Aces_High_RED.png"
   },
   "56": {
     "name": "Kill-a-Watt",
@@ -172,8 +168,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/8/8a/Unusual_Cloud_9.png"
   },
   "59": {
-    "name": "Aces High (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/6/6d/Unusual_Aces_High_BLU.png"
+    "name": "Aces High",
+    "image_link": "https://wiki.teamfortress.com/w/images/6/64/Unusual_Aces_High_RED.png"
   },
   "60": {
     "name": "Dead Presidents",
@@ -260,7 +256,7 @@
     "image_link": "https://wiki.teamfortress.com/w/images/7/76/Unusual_Demonflame.png"
   },
   "81": {
-    "name": "Bonzo The All-Gnawing",
+    "name": "Bonzo the All-Gnawing",
     "image_link": "https://wiki.teamfortress.com/w/images/4/4d/Unusual_Bonzo_The_All-Gnawing.png"
   },
   "82": {
@@ -268,7 +264,7 @@
     "image_link": "https://wiki.teamfortress.com/w/images/0/07/Unusual_Amaranthine.png"
   },
   "83": {
-    "name": "Stare From Beyond",
+    "name": "Stare from Beyond",
     "image_link": "https://wiki.teamfortress.com/w/images/1/15/Unusual_Stare_From_Beyond.png"
   },
   "84": {
@@ -340,11 +336,11 @@
     "image_link": "https://wiki.teamfortress.com/w/images/6/64/Unusual_Death_by_Disco.png"
   },
   "101": {
-    "name": "It's a mystery to everyone",
+    "name": "It's a Mystery to Everyone",
     "image_link": "https://wiki.teamfortress.com/w/images/f/fc/Unusual_It%27s_a_mystery_to_everyone.png"
   },
   "102": {
-    "name": "It's a puzzle to me",
+    "name": "It's a Puzzle to Me",
     "image_link": "https://wiki.teamfortress.com/w/images/1/1e/Unusual_It%27s_a_puzzle_to_me.png"
   },
   "103": {
@@ -492,12 +488,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/8/88/Unusual_Fragmented_Photons.png"
   },
   "139": {
-    "name": "Defragmenting Reality (RED)",
+    "name": "Defragmenting Reality",
     "image_link": "https://wiki.teamfortress.com/w/images/f/fa/Unusual_Defragmenting_Reality_RED.png"
-  },
-  "140": {
-    "name": "Defragmenting Reality (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/f/f5/Unusual_Defragmenting_Reality_BLU.png"
   },
   "141": {
     "name": "Fragmenting Reality",
@@ -516,12 +508,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/d/d8/Unusual_Snowblinded.png"
   },
   "145": {
-    "name": "Pyroland Daydream (RED)",
+    "name": "Pyroland Daydream",
     "image_link": "https://wiki.teamfortress.com/w/images/9/9d/Unusual_Pyroland_Daydream_RED.png"
-  },
-  "146": {
-    "name": "Pyroland Daydream (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/8/83/Unusual_Pyroland_Daydream_BLU.png"
   },
   "147": {
     "name": "Verdatica",
@@ -636,20 +624,16 @@
     "image_link": "https://wiki.teamfortress.com/w/images/c/c4/Unusual_Ventum_Maris.png"
   },
   "175": {
-    "name": "Mirthful Mistletoe (RED)",
+    "name": "Mirthful Mistletoe",
     "image_link": "https://wiki.teamfortress.com/w/images/0/0d/Unusual_Mirthful_Mistletoe_RED.png"
   },
-  "176": {
-    "name": "Mirthful Mistletoe (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/a/a6/Unusual_Mirthful_Mistletoe_BLU.png"
-  },
   "177": {
-    "name": "Aggradation",
-    "image_link": "https://wiki.teamfortress.com/w/images/b/bb/Unusual_Aggradation.png"
-  },
-  "178": {
     "name": "Resonation",
     "image_link": "https://wiki.teamfortress.com/w/images/5/56/Unusual_Resonation.png"
+  },
+  "178": {
+    "name": "Aggradation",
+    "image_link": "https://wiki.teamfortress.com/w/images/b/bb/Unusual_Aggradation.png"
   },
   "179": {
     "name": "Lucidation",
@@ -668,12 +652,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/7/74/Unusual_Fragrancium_Elementalis.png"
   },
   "183": {
-    "name": "Reverium Irregularis (RED)",
+    "name": "Reverium Irregularis",
     "image_link": "https://wiki.teamfortress.com/w/images/8/83/Unusual_Reverium_Irregularis_RED.png"
-  },
-  "184": {
-    "name": "Reverium Irregularis (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/1/19/Unusual_Reverium_Irregularis_BLU.png"
   },
   "185": {
     "name": "Perennial Petals",
@@ -708,12 +688,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/c/c9/Unusual_Shrieking_Shades.png"
   },
   "193": {
-    "name": "Restless Wraiths (RED)",
+    "name": "Restless Wraiths",
     "image_link": "https://wiki.teamfortress.com/w/images/7/7c/Unusual_Restless_Wraiths_RED.png"
-  },
-  "194": {
-    "name": "Restless Wraiths (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/3/39/Unusual_Restless_Wraiths_BLU.png"
   },
   "195": {
     "name": "Infernal Wraith",
@@ -764,12 +740,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/3/32/Unusual_Hospitable_Festivity.png"
   },
   "207": {
-    "name": "Condescending Embrace (RED)",
+    "name": "Condescending Embrace",
     "image_link": "https://wiki.teamfortress.com/w/images/6/65/Unusual_Condescending_Embrace_RED.png"
-  },
-  "208": {
-    "name": "Condescending Embrace (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/0/0b/Unusual_Condescending_Embrace_BLU.png"
   },
   "209": {
     "name": "Sparkling Spruce",
@@ -800,12 +772,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/d/d9/Unusual_Flurry_Rush.png"
   },
   "216": {
-    "name": "Spark of Smissmas (RED)",
+    "name": "Spark of Smissmas",
     "image_link": "https://wiki.teamfortress.com/w/images/9/9f/Unusual_Spark_of_Smissmas_RED.png"
-  },
-  "217": {
-    "name": "Spark of Smissmas (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/0/0e/Unusual_Spark_of_Smissmas_BLU.png"
   },
   "218": {
     "name": "Polar Forecast",
@@ -820,32 +788,20 @@
     "image_link": "https://wiki.teamfortress.com/w/images/b/b3/Unusual_Holiday_Horns.png"
   },
   "221": {
-    "name": "Ardent Antlers (RED)",
+    "name": "Ardent Antlers",
     "image_link": "https://wiki.teamfortress.com/w/images/c/cb/Unusual_Ardent_Antlers_RED.png"
-  },
-  "222": {
-    "name": "Ardent Antlers (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/9/93/Unusual_Ardent_Antlers_BLU.png"
   },
   "223": {
     "name": "Festive Lights",
     "image_link": "https://wiki.teamfortress.com/w/images/d/d8/Unusual_Festive_Lights.png"
   },
   "224": {
-    "name": "Crustacean Sensation (RED)",
+    "name": "Crustacean Sensation",
     "image_link": "https://wiki.teamfortress.com/w/images/e/e2/Unusual_Crustacean_Sensation_RED.png"
   },
-  "225": {
-    "name": "Crustacean Sensation (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/d/db/Unusual_Crustacean_Sensation_BLU.png"
-  },
   "226": {
-    "name": "Frosted Decadence (RED)",
+    "name": "Frosted Decadence",
     "image_link": "https://wiki.teamfortress.com/w/images/1/15/Unusual_Frosted_Decadence_RED.png"
-  },
-  "227": {
-    "name": "Frosted Decadence (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/4/46/Unusual_Frosted_Decadence_BLU.png"
   },
   "228": {
     "name": "Sprinkled Delights",
@@ -892,12 +848,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/8/89/Unusual_Glimmering_Fireworks.png"
   },
   "239": {
-    "name": "Flying Lights (RED)",
+    "name": "Flying Lights",
     "image_link": "https://wiki.teamfortress.com/w/images/0/0e/Unusual_Flying_Lights_RED.png"
-  },
-  "240": {
-    "name": "Flying Lights (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/f/f4/Unusual_Flying_Lights_BLU.png"
   },
   "241": {
     "name": "Limelight",
@@ -916,12 +868,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/a/a3/Unusual_Refracting_Fractals.png"
   },
   "245": {
-    "name": "Startrance (RED)",
+    "name": "Startrance",
     "image_link": "https://wiki.teamfortress.com/w/images/7/71/Unusual_Startrance_RED.png"
-  },
-  "246": {
-    "name": "Startrance (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/f/f5/Unusual_Startrance_BLU.png"
   },
   "247": {
     "name": "Starlush",
@@ -980,20 +928,16 @@
     "image_link": "https://wiki.teamfortress.com/w/images/9/9c/Unusual_Horsemann%27s_Hack.png"
   },
   "261": {
-    "name": "Haunted Forever! (RED)",
-    "image_link": "https://wiki.teamfortress.com/w/images/6/64/Unusual_Haunted_Forever%21_RED.png"
-  },
-  "262": {
-    "name": "Haunted Forever! (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/a/a6/Unusual_Haunted_Forever%21_BLU.png"
+    "name": "Haunted Forever!",
+    "image_link": null
   },
   "263": {
-    "name": "Forever And Forever!",
-    "image_link": "https://wiki.teamfortress.com/w/images/5/5c/Unusual_Forever_And_Forever%21.png"
+    "name": "Forever and Forever!",
+    "image_link": null
   },
   "264": {
     "name": "Cursed Forever!",
-    "image_link": "https://wiki.teamfortress.com/w/images/7/79/Unusual_Cursed_Forever%21.png"
+    "image_link": null
   },
   "265": {
     "name": "Moth Plague",
@@ -1004,12 +948,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/1/16/Unusual_Malevolent_Monoculi.png"
   },
   "267": {
-    "name": "Haunted Wick (RED)",
+    "name": "Haunted Wick",
     "image_link": "https://wiki.teamfortress.com/w/images/6/6a/Unusual_Haunted_Wick_RED.png"
-  },
-  "268": {
-    "name": "Haunted Wick (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/7/7f/Unusual_Haunted_Wick_BLU.png"
   },
   "269": {
     "name": "Wicked Wick",
@@ -1032,12 +972,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/6/6b/Unusual_Silver_Serenade.png"
   },
   "274": {
-    "name": "Cosmic Constellations (RED)",
+    "name": "Cosmic Constellations",
     "image_link": "https://wiki.teamfortress.com/w/images/0/0b/Unusual_Cosmic_Constellations_RED.png"
-  },
-  "275": {
-    "name": "Cosmic Constellations (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/0/02/Unusual_Cosmic_Constellations_BLU.png"
   },
   "276": {
     "name": "Dazzling Constellations",
@@ -1052,20 +988,12 @@
     "image_link": "https://wiki.teamfortress.com/w/images/5/5e/Unusual_Starlight_Haze.png"
   },
   "279": {
-    "name": "Hard Carry (RED)",
+    "name": "Hard Carry",
     "image_link": "https://wiki.teamfortress.com/w/images/8/82/Unusual_Hard_Carry_RED.png"
   },
-  "280": {
-    "name": "Hard Carry (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/f/fc/Unusual_Hard_Carry_BLU.png"
-  },
   "281": {
-    "name": "Jellyfish Field (RED)",
+    "name": "Jellyfish Field",
     "image_link": "https://wiki.teamfortress.com/w/images/3/3c/Unusual_Jellyfish_Field_RED.png"
-  },
-  "282": {
-    "name": "Jellyfish Field (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/a/a2/Unusual_Jellyfish_Field_BLU.png"
   },
   "283": {
     "name": "Jellyfish Hunter",
@@ -1116,20 +1044,12 @@
     "image_link": "https://wiki.teamfortress.com/w/images/b/b8/Unusual_Stellar_Ascent.png"
   },
   "295": {
-    "name": "Sapped (RED)",
+    "name": "Sapped",
     "image_link": "https://wiki.teamfortress.com/w/images/8/87/Unusual_Sapped_RED.png"
   },
-  "296": {
-    "name": "Sapped (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/4/45/Unusual_Sapped_BLU.png"
-  },
   "297": {
-    "name": "Hellspawned Horns (RED)",
+    "name": "Hellspawned Horns",
     "image_link": "https://wiki.teamfortress.com/w/images/3/3c/Unusual_Hellspawned_Horns_RED.png"
-  },
-  "298": {
-    "name": "Hellspawned Horns (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/8/8b/Unusual_Hellspawned_Horns_BLU.png"
   },
   "299": {
     "name": "Demonic Impaler",
@@ -1140,12 +1060,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/c/cd/Unusual_Revenant%27s_Rack.png"
   },
   "301": {
-    "name": "Sixth Sense (RED)",
+    "name": "Sixth Sense",
     "image_link": "https://wiki.teamfortress.com/w/images/5/5d/Unusual_Sixth_Sense_RED.png"
-  },
-  "302": {
-    "name": "Sixth Sense (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/f/f9/Unusual_Sixth_Sense_BLU.png"
   },
   "303": {
     "name": "Amygdala",
@@ -1172,48 +1088,32 @@
     "image_link": "https://wiki.teamfortress.com/w/images/8/89/Unusual_Nightmarish_Storm.png"
   },
   "309": {
-    "name": "Icestruck (RED)",
+    "name": "Icestruck",
     "image_link": "https://wiki.teamfortress.com/w/images/7/78/Unusual_Icestruck_RED.png"
-  },
-  "310": {
-    "name": "Icestruck (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/7/75/Unusual_Icestruck_BLU.png"
   },
   "311": {
     "name": "Goldstruck",
     "image_link": "https://wiki.teamfortress.com/w/images/2/2a/Unusual_Goldstruck.png"
   },
   "312": {
-    "name": "Radiant Rivalry (RED)",
+    "name": "Radiant Rivalry",
     "image_link": "https://wiki.teamfortress.com/w/images/3/30/Unusual_Radiant_Rivalry_RED.png"
-  },
-  "313": {
-    "name": "Radiant Rivalry (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/c/cc/Unusual_Radiant_Rivalry_BLU.png"
   },
   "314": {
     "name": "Radiant Legacy",
     "image_link": "https://wiki.teamfortress.com/w/images/2/23/Unusual_Radiant_Legacy.png"
   },
   "315": {
-    "name": "Frosty Flavours (RED)",
+    "name": "Frosty Flavours",
     "image_link": "https://wiki.teamfortress.com/w/images/d/de/Unusual_Frosty_Flavours_RED.png"
-  },
-  "316": {
-    "name": "Frosty Flavours (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/5/55/Unusual_Frosty_Flavours_BLU.png"
   },
   "317": {
     "name": "Mint Frost",
     "image_link": "https://wiki.teamfortress.com/w/images/6/68/Unusual_Mint_Frost.png"
   },
   "318": {
-    "name": "North Star (RED)",
+    "name": "North Star",
     "image_link": "https://wiki.teamfortress.com/w/images/e/ee/Unusual_North_Star_RED.png"
-  },
-  "319": {
-    "name": "North Star (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/c/c0/Unusual_North_Star_BLU.png"
   },
   "320": {
     "name": "Prettiest Star",
@@ -1224,12 +1124,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/a/ae/Unusual_Festive_Falling_Star.png"
   },
   "322": {
-    "name": "Lunar Lights (RED)",
+    "name": "Lunar Lights",
     "image_link": "https://wiki.teamfortress.com/w/images/9/9a/Unusual_Lunar_Lights_RED.png"
-  },
-  "323": {
-    "name": "Lunar Lights (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/f/f6/Unusual_Lunar_Lights_BLU.png"
   },
   "324": {
     "name": "Fairy Lights",
@@ -1239,217 +1135,213 @@
     "name": "Natural Lights",
     "image_link": "https://wiki.teamfortress.com/w/images/7/7d/Unusual_Natural_Lights.png"
   },
-  "326": {
+  "327": {
     "name": "Loyalist's Coronet",
     "image_link": "https://wiki.teamfortress.com/w/images/3/38/Unusual_Loyalist%27s_Coronet_RED.png"
   },
-  "327": {
+  "329": {
     "name": "Knight's Prideful Spirit",
     "image_link": "https://wiki.teamfortress.com/w/images/8/8b/Unusual_Knight%27s_Prideful_Spirit.png"
   },
-  "328": {
+  "330": {
     "name": "Baron's Cherished Chaplet",
     "image_link": "https://wiki.teamfortress.com/w/images/9/9c/Unusual_Baron%27s_Cherished_Chaplet.png"
   },
-  "329": {
-    "name": "Lure of the Deep (RED)",
+  "331": {
+    "name": "Lure of the Deep",
     "image_link": "https://wiki.teamfortress.com/w/images/e/e8/Unusual_Lure_of_the_Deep_RED.png"
   },
-  "330": {
-    "name": "Lure of the Deep (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/7/70/Unusual_Lure_of_the_Deep_BLU.png"
-  },
-  "331": {
+  "333": {
     "name": "Violent Viridian",
     "image_link": "https://wiki.teamfortress.com/w/images/d/d8/Unusual_Violent_Viridian.png"
   },
-  "332": {
+  "334": {
     "name": "Magenta Monstrum",
     "image_link": "https://wiki.teamfortress.com/w/images/8/87/Unusual_Magenta_Monstrum.png"
   },
-  "333": {
+  "335": {
     "name": "Rainbow Reverie",
     "image_link": "https://wiki.teamfortress.com/w/images/f/ff/Unusual_Rainbow_Reverie.png"
   },
-  "334": {
+  "336": {
     "name": "Cuban Smoke",
     "image_link": "https://wiki.teamfortress.com/w/images/4/4c/Unusual_Cuban_Smoke.png"
   },
-  "335": {
-    "name": "Melting Mohawk (RED)",
+  "337": {
+    "name": "Melting Mohawk",
     "image_link": "https://wiki.teamfortress.com/w/images/7/78/Unusual_Melting_Mohawk_RED.png"
   },
-  "336": {
-    "name": "Melting Mohawk (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/5/52/Unusual_Melting_Mohawk_BLU.png"
-  },
-  "337": {
+  "339": {
     "name": "Scorched Scalp",
     "image_link": "https://wiki.teamfortress.com/w/images/5/5f/Unusual_Scorched_Scalp.png"
   },
-  "338": {
+  "340": {
     "name": "Ignited Crest",
     "image_link": "https://wiki.teamfortress.com/w/images/1/17/Unusual_Ignited_Crest.png"
   },
-  "339": {
+  "341": {
     "name": "Rare Shine",
     "image_link": "https://wiki.teamfortress.com/w/images/a/a8/Unusual_Rare_Shine.png"
   },
-  "340": {
-    "name": "Distant Drift (RED)",
+  "342": {
+    "name": "Distant Drift",
     "image_link": "https://wiki.teamfortress.com/w/images/d/dc/Unusual_Distant_Drift_RED.png"
   },
-  "341": {
-    "name": "Distant Drift (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/1/16/Unusual_Distant_Drift_BLU.png"
-  },
-  "342": {
+  "344": {
     "name": "Warp Drive",
     "image_link": "https://wiki.teamfortress.com/w/images/a/aa/Unusual_Warp_Drive.png"
   },
-  "343": {
+  "345": {
     "name": "Overdrive",
     "image_link": "https://wiki.teamfortress.com/w/images/2/2d/Unusual_Overdrive.png"
   },
-  "344": {
+  "346": {
     "name": "Butterfly Season",
     "image_link": "https://wiki.teamfortress.com/w/images/b/b2/Unusual_Butterfly_Season_RED.png"
   },
-  "345": {
-    "name": "Psycho-delic",
+  "348": {
+    "name": "Psycho-Delic",
     "image_link": "https://wiki.teamfortress.com/w/images/c/c6/Unusual_Psycho-delic.png"
   },
-  "346": {
+  "349": {
     "name": "Bewitching Bugs",
     "image_link": "https://wiki.teamfortress.com/w/images/5/5f/Unusual_Bewitching_Bugs.png"
   },
-  "347": {
+  "350": {
     "name": "Spectral Fire",
     "image_link": "https://wiki.teamfortress.com/w/images/a/a4/Unusual_Spectral_Fire.png"
   },
-  "348": {
+  "351": {
     "name": "Galactic Flame",
     "image_link": "https://wiki.teamfortress.com/w/images/a/a1/Unusual_Galactic_Flame.png"
   },
-  "349": {
+  "352": {
     "name": "Revived Recharge",
     "image_link": "https://wiki.teamfortress.com/w/images/c/c9/Unusual_Revived_Recharge.png"
   },
-  "350": {
+  "353": {
     "name": "Undead Electricity",
     "image_link": "https://wiki.teamfortress.com/w/images/7/7a/Unusual_Undead_Electricity.png"
   },
-  "351": {
+  "354": {
     "name": "Frankencharged",
     "image_link": "https://wiki.teamfortress.com/w/images/c/cb/Unusual_Frankencharged.png"
   },
-  "352": {
+  "355": {
     "name": "Phantom Plague",
     "image_link": "https://wiki.teamfortress.com/w/images/7/78/Unusual_Phantom_Plague.png"
   },
-  "353": {
+  "356": {
     "name": "Haunting Haze",
     "image_link": "https://wiki.teamfortress.com/w/images/c/c7/Unusual_Haunting_Haze.png"
   },
-  "354": {
+  "357": {
     "name": "Vicious Vampires",
     "image_link": "https://wiki.teamfortress.com/w/images/8/80/Unusual_Vicious_Vampires.png"
   },
-  "355": {
+  "358": {
     "name": "Ravenous Ravens",
     "image_link": "https://wiki.teamfortress.com/w/images/a/aa/Unusual_Ravenous_Ravens.png"
   },
-  "356": {
+  "359": {
     "name": "Delightful Doves",
     "image_link": "https://wiki.teamfortress.com/w/images/7/7d/Unusual_Delightful_Doves.png"
   },
-  "357": {
-    "name": "Searing Stove (RED)",
+  "360": {
+    "name": "Searing Stove",
     "image_link": "https://wiki.teamfortress.com/w/images/6/67/Unusual_Searing_Stove_RED.png"
   },
-  "358": {
-    "name": "Searing Stove (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/c/c3/Unusual_Searing_Stove_BLU.png"
-  },
-  "359": {
-    "name": "Uber Blaze (RED)",
+  "362": {
+    "name": "Über Blaze",
     "image_link": "https://wiki.teamfortress.com/w/images/8/83/Unusual_Uber_Blaze_RED.png"
   },
-  "360": {
-    "name": "Uber Blaze (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/5/5d/Unusual_Uber_Blaze_BLU.png"
-  },
-  "361": {
-    "name": "Frisky Morning",
-    "image_link": "https://wiki.teamfortress.com/w/images/5/58/Unusual_Frisky_Morning.png"
-  },
-  "362": {
-    "name": "Playful Aurora",
-    "image_link": "https://wiki.teamfortress.com/w/images/e/e1/Unusual_Playful_Aurora.png"
-  },
-  "363": {
-    "name": "Shining Bokeh",
-    "image_link": "https://wiki.teamfortress.com/w/images/2/20/Unusual_Shining_Bokeh.png"
-  },
   "364": {
-    "name": "Aurora Skies",
-    "image_link": "https://wiki.teamfortress.com/w/images/6/61/Unusual_Aurora_Skies.png"
-  },
-  "365": {
-    "name": "Ghosts of Smissmas Time",
-    "image_link": "https://wiki.teamfortress.com/w/images/3/30/Unusual_Ghosts_of_Smissmas_Time.png"
-  },
-  "366": {
-    "name": "Halcyon Halo",
-    "image_link": "https://wiki.teamfortress.com/w/images/4/49/Unusual_Halcyon_Halo.png"
-  },
-  "367": {
-    "name": "Crystal Crown (RED)",
-    "image_link": "https://wiki.teamfortress.com/w/images/7/78/Unusual_Crystal_Crown_RED.png"
-  },
-  "368": {
-    "name": "Crystal Crown (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/2/2f/Unusual_Crystal_Crown_BLU.png"
-  },
-  "369": {
     "name": "Sizzling",
     "image_link": "https://wiki.teamfortress.com/w/images/a/ae/Unusual_Sizzling.png"
   },
+  "365": {
+    "name": "Crystal Crown",
+    "image_link": "https://wiki.teamfortress.com/w/images/7/78/Unusual_Crystal_Crown_RED.png"
+  },
+  "367": {
+    "name": "Halcyon Halo",
+    "image_link": "https://wiki.teamfortress.com/w/images/4/49/Unusual_Halcyon_Halo.png"
+  },
+  "368": {
+    "name": "Ghosts of Smissmas Time",
+    "image_link": "https://wiki.teamfortress.com/w/images/3/30/Unusual_Ghosts_of_Smissmas_Time.png"
+  },
+  "369": {
+    "name": "Aurora Skies",
+    "image_link": "https://wiki.teamfortress.com/w/images/6/61/Unusual_Aurora_Skies.png"
+  },
   "370": {
+    "name": "Shining Bokeh",
+    "image_link": "https://wiki.teamfortress.com/w/images/2/20/Unusual_Shining_Bokeh.png"
+  },
+  "371": {
+    "name": "Playful Aurora",
+    "image_link": "https://wiki.teamfortress.com/w/images/e/e1/Unusual_Playful_Aurora.png"
+  },
+  "372": {
+    "name": "Frisky Morning",
+    "image_link": "https://wiki.teamfortress.com/w/images/5/58/Unusual_Frisky_Morning.png"
+  },
+  "373": {
     "name": "Drunkard",
     "image_link": "https://wiki.teamfortress.com/w/images/7/7e/Unusual_Drunkard.png"
   },
-  "371": {
-    "name": "Blades of Betrayal (RED)",
+  "374": {
+    "name": "Blades of Betrayal",
     "image_link": "https://wiki.teamfortress.com/w/images/7/7d/Unusual_Blades_of_Betrayal_RED.png"
   },
-  "372": {
-    "name": "Blades of Betrayal (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/b/b6/Unusual_Blades_of_Betrayal_BLU.png"
-  },
-  "373": {
+  "376": {
     "name": "Death's Daggers",
     "image_link": "https://wiki.teamfortress.com/w/images/8/8b/Unusual_Death%27s_Daggers.png"
   },
-  "374": {
-    "name": "Fully Charged (RED)",
+  "377": {
+    "name": "Fully Charged",
     "image_link": "https://wiki.teamfortress.com/w/images/8/8f/Unusual_Fully_Charged_RED.png"
   },
-  "375": {
-    "name": "Fully Charged (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/0/02/Unusual_Fully_Charged_BLU.png"
-  },
-  "376": {
+  "379": {
     "name": "Overcharged",
     "image_link": "https://wiki.teamfortress.com/w/images/6/63/Unusual_Overcharged.png"
   },
-  "377": {
+  "380": {
     "name": "Piercing Headache",
     "image_link": "https://wiki.teamfortress.com/w/images/1/1a/Unusual_Piercing_Headache.png"
   },
-  "378": {
+  "381": {
     "name": "Decimating Wind",
     "image_link": "https://wiki.teamfortress.com/w/images/5/5d/Unusual_Decimating_Wind.png"
+  },
+  "382": {
+    "name": "Ocean Swirl",
+    "image_link": "https://wiki.teamfortress.com/w/images/2/27/Unusual_Ocean_Swirl_RED.png"
+  },
+  "384": {
+    "name": "Toxic Swirl",
+    "image_link": "https://wiki.teamfortress.com/w/images/0/06/Unusual_Toxic_Swirl.png"
+  },
+  "385": {
+    "name": "Candle Flame",
+    "image_link": "https://wiki.teamfortress.com/w/images/8/87/Unusual_Candle_Flame_RED.png"
+  },
+  "387": {
+    "name": "Sizzling Aroma",
+    "image_link": "https://wiki.teamfortress.com/w/images/9/92/Unusual_Sizzling_Aroma_RED.png"
+  },
+  "389": {
+    "name": "Toxic Aroma",
+    "image_link": "https://wiki.teamfortress.com/w/images/c/c2/Unusual_Toxic_Aroma.png"
+  },
+  "390": {
+    "name": "Current Conductor",
+    "image_link": "https://wiki.teamfortress.com/w/images/f/f3/Unusual_Current_Conductor_RED.png"
+  },
+  "392": {
+    "name": "Sandy",
+    "image_link": "https://wiki.teamfortress.com/w/images/5/5d/Unusual_Sandy.png"
   },
   "393": {
     "name": "Chromatic Blaze",
@@ -1495,6 +1387,34 @@
     "name": "Cryogenic",
     "image_link": "https://wiki.teamfortress.com/w/images/3/30/Unusual_Cryogenic.png"
   },
+  "407": {
+    "name": "Umbral Lights",
+    "image_link": null
+  },
+  "408": {
+    "name": "Polar Prism",
+    "image_link": null
+  },
+  "409": {
+    "name": "Solar Singed",
+    "image_link": null
+  },
+  "410": {
+    "name": "Floral Growth",
+    "image_link": null
+  },
+  "412": {
+    "name": "Stellar Orbit",
+    "image_link": null
+  },
+  "413": {
+    "name": "Blissful Butterflies",
+    "image_link": null
+  },
+  "415": {
+    "name": "Wispful Wings",
+    "image_link": null
+  },
   "701": {
     "name": "Hot",
     "image_link": "https://wiki.teamfortress.com/w/images/d/d3/Unusual_Hot.png"
@@ -1512,12 +1432,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/5/5f/Unusual_Energy_Orb.png"
   },
   "3001": {
-    "name": "Showstopper (RED)",
+    "name": "Showstopper",
     "image_link": "https://wiki.teamfortress.com/w/images/d/df/Unusual_Showstopper_RED.png"
-  },
-  "3002": {
-    "name": "Showstopper (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/8/80/Unusual_Showstopper_BLU.png"
   },
   "3003": {
     "name": "Holy Grail",
@@ -1664,12 +1580,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/e/ee/Unusual_Astral_Presence.png"
   },
   "3039": {
-    "name": "Arcane Assistance (RED)",
+    "name": "Arcane Assistance",
     "image_link": "https://wiki.teamfortress.com/w/images/c/ca/Unusual_Arcane_Assistance_RED.png"
-  },
-  "3040": {
-    "name": "Arcane Assistance (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/f/fe/Unusual_Arcane_Assistance_BLU.png"
   },
   "3041": {
     "name": "Emerald Allurement",
@@ -1720,12 +1632,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/4/43/Unusual_Ascension.png"
   },
   "3053": {
-    "name": "Reindoonicorn Rancher (RED)",
+    "name": "Reindoonicorn Rancher",
     "image_link": "https://wiki.teamfortress.com/w/images/f/f1/Unusual_Reindoonicorn_Rancher_RED.png"
-  },
-  "3054": {
-    "name": "Reindoonicorn Rancher (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/2/2c/Unusual_Reindoonicorn_Rancher_BLU.png"
   },
   "3055": {
     "name": "Twinkling Lights",
@@ -1744,12 +1652,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/0/0e/Unusual_Cursed_Confinement.png"
   },
   "3061": {
-    "name": "Cavalier de Carte (RED)",
+    "name": "Cavalier de Carte",
     "image_link": "https://wiki.teamfortress.com/w/images/c/c2/Unusual_Cavalier_de_Carte_RED.png"
-  },
-  "3062": {
-    "name": "Cavalier de Carte (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/c/c4/Unusual_Cavalier_de_Carte_BLU.png"
   },
   "3063": {
     "name": "Hollow Flourish",
@@ -1800,12 +1704,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/a/a5/Unusual_Golden_Gusts.png"
   },
   "3075": {
-    "name": "Smissmas Swirls (RED)",
+    "name": "Smissmas Swirls",
     "image_link": "https://wiki.teamfortress.com/w/images/7/79/Unusual_Smissmas_Swirls_RED.png"
-  },
-  "3076": {
-    "name": "Smissmas Swirls (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/1/10/Unusual_Smissmas_Swirls_BLU.png"
   },
   "3077": {
     "name": "Minty Cypress",
@@ -1816,20 +1716,12 @@
     "image_link": "https://wiki.teamfortress.com/w/images/7/7a/Unusual_Pristine_Pine.png"
   },
   "3079": {
-    "name": "Sparkly Spruce (RED)",
+    "name": "Sparkly Spruce",
     "image_link": "https://wiki.teamfortress.com/w/images/5/5c/Unusual_Sparkly_Spruce_RED.png"
   },
-  "3080": {
-    "name": "Sparkly Spruce (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/3/30/Unusual_Sparkly_Spruce_BLU.png"
-  },
   "3081": {
-    "name": "Festive Fever (RED)",
+    "name": "Festive Fever",
     "image_link": "https://wiki.teamfortress.com/w/images/a/a7/Unusual_Festive_Fever_RED.png"
-  },
-  "3082": {
-    "name": "Festive Fever (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/1/17/Unusual_Festive_Fever_BLU.png"
   },
   "3083": {
     "name": "Golden Glimmer",
@@ -1840,24 +1732,16 @@
     "image_link": "https://wiki.teamfortress.com/w/images/7/78/Unusual_Frosty_Silver.png"
   },
   "3085": {
-    "name": "Glamorous Dazzle (RED)",
+    "name": "Glamorous Dazzle",
     "image_link": "https://wiki.teamfortress.com/w/images/7/76/Unusual_Glamorous_Dazzle_RED.png"
-  },
-  "3086": {
-    "name": "Glamorous Dazzle (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/b/b2/Unusual_Glamorous_Dazzle_BLU.png"
   },
   "3087": {
     "name": "Sublime Snowstorm",
     "image_link": "https://wiki.teamfortress.com/w/images/e/ec/Unusual_Sublime_Snowstorm.png"
   },
   "3088": {
-    "name": "Marigold Ritual (RED)",
+    "name": "Marigold Ritual",
     "image_link": "https://wiki.teamfortress.com/w/images/3/36/Unusual_Marigold_Ritual_RED.png"
-  },
-  "3089": {
-    "name": "Marigold Ritual (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/0/07/Unusual_Marigold_Ritual_BLU.png"
   },
   "3090": {
     "name": "Pungent Poison",
@@ -1880,32 +1764,20 @@
     "image_link": "https://wiki.teamfortress.com/w/images/3/31/Unusual_Aurelian_Seal.png"
   },
   "3095": {
-    "name": "Runic Imprisonment (RED)",
+    "name": "Runic Imprisonment",
     "image_link": "https://wiki.teamfortress.com/w/images/8/83/Unusual_Runic_Imprisonment_RED.png"
-  },
-  "3096": {
-    "name": "Runic Imprisonment (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/4/44/Unusual_Runic_Imprisonment_BLU.png"
   },
   "3097": {
     "name": "Prismatic Haze",
     "image_link": "https://wiki.teamfortress.com/w/images/2/20/Unusual_Prismatic_Haze.png"
   },
   "3098": {
-    "name": "Rising Ritual (RED)",
+    "name": "Rising Ritual",
     "image_link": "https://wiki.teamfortress.com/w/images/6/6f/Unusual_Rising_Ritual_RED.png"
   },
-  "3099": {
-    "name": "Rising Ritual (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/7/78/Unusual_Rising_Ritual_BLU.png"
-  },
   "3100": {
-    "name": "Bloody Grip (RED)",
+    "name": "Bloody Grip",
     "image_link": "https://wiki.teamfortress.com/w/images/b/b6/Unusual_Bloody_Grip_RED.png"
-  },
-  "3101": {
-    "name": "Bloody Grip (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/3/35/Unusual_Bloody_Grip_BLU.png"
   },
   "3102": {
     "name": "Toxic Grip",
@@ -1932,12 +1804,8 @@
     "image_link": "https://wiki.teamfortress.com/w/images/6/62/Unusual_Convulsive_Fiery.png"
   },
   "3108": {
-    "name": "Festivized Formation (RED)",
+    "name": "Festivized Formation",
     "image_link": "https://wiki.teamfortress.com/w/images/0/04/Unusual_Festivized_Formation_RED.png"
-  },
-  "3109": {
-    "name": "Festivized Formation (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/f/f3/Unusual_Festivized_Formation_BLU.png"
   },
   "3110": {
     "name": "Twirling Spirits",
@@ -1963,349 +1831,309 @@
     "name": "Deepsea Rave",
     "image_link": "https://wiki.teamfortress.com/w/images/e/ef/Unusual_Deepsea_Rave_RED.png"
   },
-  "3116": {
+  "3117": {
     "name": "Blooming Beacon",
     "image_link": "https://wiki.teamfortress.com/w/images/e/e7/Unusual_Blooming_Beacon.png"
   },
-  "3117": {
+  "3118": {
     "name": "Beaming Beacon",
     "image_link": "https://wiki.teamfortress.com/w/images/b/b9/Unusual_Beaming_Beacon.png"
   },
-  "3118": {
+  "3119": {
     "name": "Blazing Beacon",
     "image_link": "https://wiki.teamfortress.com/w/images/a/a6/Unusual_Blazing_Beacon.png"
   },
-  "3119": {
+  "3120": {
     "name": "Floppin' Frenzy",
     "image_link": "https://wiki.teamfortress.com/w/images/8/84/Unusual_Floppin%27_Frenzy.png"
   },
-  "3120": {
-    "name": "Pastel Trance (RED)",
+  "3121": {
+    "name": "Pastel Trance",
     "image_link": "https://wiki.teamfortress.com/w/images/9/95/Unusual_Pastel_Trance_RED.png"
   },
-  "3121": {
-    "name": "Pastel Trance (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/a/a8/Unusual_Pastel_Trance_BLU.png"
-  },
-  "3122": {
+  "3123": {
     "name": "Wildflower Meadows",
     "image_link": "https://wiki.teamfortress.com/w/images/5/57/Unusual_Wildflower_Meadows.png"
   },
-  "3123": {
-    "name": "Deep-sea Devourer",
+  "3124": {
+    "name": "Deep-Sea Devourer",
     "image_link": "https://wiki.teamfortress.com/w/images/7/7a/Unusual_Deep-sea_Devourer.png"
   },
-  "3124": {
+  "3125": {
     "name": "Eldritch Horror",
     "image_link": "https://wiki.teamfortress.com/w/images/e/e2/Unusual_Eldritch_Horror.png"
   },
-  "3125": {
+  "3126": {
     "name": "Autumn Leaves",
     "image_link": "https://wiki.teamfortress.com/w/images/5/5e/Unusual_Autumn_Leaves.png"
   },
-  "3126": {
+  "3127": {
     "name": "Dead Man's Party",
     "image_link": "https://wiki.teamfortress.com/w/images/4/45/Unusual_Dead_Man%27s_Party.png"
   },
-  "3127": {
+  "3128": {
     "name": "Potion Explosion",
     "image_link": "https://wiki.teamfortress.com/w/images/8/80/Unusual_Potion_Explosion.png"
   },
-  "3128": {
+  "3129": {
     "name": "Haunted Cremation",
     "image_link": "https://wiki.teamfortress.com/w/images/e/e7/Unusual_Haunted_Cremation.png"
   },
-  "3129": {
+  "3130": {
     "name": "Cremation",
     "image_link": "https://wiki.teamfortress.com/w/images/d/d1/Unusual_Cremation.png"
   },
-  "3130": {
+  "3131": {
     "name": "Snowfall",
     "image_link": "https://wiki.teamfortress.com/w/images/5/5b/Unusual_Snowfall.png"
   },
-  "3131": {
-    "name": "Galactic Connection (RED)",
+  "3132": {
+    "name": "Galactic Connection",
     "image_link": "https://wiki.teamfortress.com/w/images/d/d0/Unusual_Galactic_Connection_RED.png"
   },
-  "3132": {
-    "name": "Galactic Connection (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/4/41/Unusual_Galactic_Connection_BLU.png"
-  },
-  "3133": {
+  "3134": {
     "name": "Dark Twilight",
     "image_link": "https://wiki.teamfortress.com/w/images/d/d4/Unusual_Dark_Twilight.png"
   },
-  "3134": {
+  "3135": {
     "name": "Eldritch Rift",
     "image_link": "https://wiki.teamfortress.com/w/images/6/67/Unusual_Eldritch_Rift.png"
   },
-  "3135": {
+  "3136": {
     "name": "Selfless Sensation",
     "image_link": "https://wiki.teamfortress.com/w/images/4/4a/Unusual_Selfless_Sensation.png"
   },
-  "3136": {
+  "3137": {
     "name": "Distant Desire",
     "image_link": "https://wiki.teamfortress.com/w/images/1/1c/Unusual_Distant_Desire.png"
   },
-  "3137": {
+  "3138": {
     "name": "Glamorous Glance",
     "image_link": "https://wiki.teamfortress.com/w/images/f/f1/Unusual_Glamorous_Glance.png"
   },
-  "3138": {
-    "name": "Permafrost Essence (RED)",
+  "3139": {
+    "name": "Permafrost Essence",
     "image_link": "https://wiki.teamfortress.com/w/images/3/3d/Unusual_Permafrost_Essence_RED.png"
   },
-  "3139": {
-    "name": "Permafrost Essence (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/b/b8/Unusual_Permafrost_Essence_BLU.png"
-  },
-  "3140": {
+  "3141": {
     "name": "Arctic Delight",
     "image_link": "https://wiki.teamfortress.com/w/images/b/b4/Unusual_Arctic_Delight.png"
   },
-  "3141": {
+  "3142": {
     "name": "Winning Spirit",
     "image_link": "https://wiki.teamfortress.com/w/images/7/7c/Unusual_Winning_Spirit.png"
   },
-  "3142": {
-    "name": "Petal Prance (RED)",
+  "3143": {
+    "name": "Petal Prance",
     "image_link": "https://wiki.teamfortress.com/w/images/0/0c/Unusual_Petal_Prance_RED.png"
   },
-  "3143": {
-    "name": "Petal Prance (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/2/2b/Unusual_Petal_Prance_BLU.png"
-  },
-  "3144": {
-    "name": "Dragonflies' Embrace (RED)",
+  "3145": {
+    "name": "Dragonflies' Embrace",
     "image_link": "https://wiki.teamfortress.com/w/images/c/c1/Unusual_Dragonflies%27_Embrace_RED.png"
   },
-  "3145": {
-    "name": "Dragonflies' Embrace (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/7/75/Unusual_Dragonflies%27_Embrace_BLU.png"
-  },
-  "3146": {
+  "3147": {
     "name": "Dragonflies' Nature",
     "image_link": "https://wiki.teamfortress.com/w/images/c/c8/Unusual_Dragonflies%27_Nature.png"
   },
-  "3147": {
+  "3148": {
     "name": "Dragonflies' Lucent",
     "image_link": "https://wiki.teamfortress.com/w/images/f/f1/Unusual_Dragonflies%27_Lucent.png"
   },
-  "3148": {
-    "name": "Electrocution (RED)",
+  "3149": {
+    "name": "Electrocution",
     "image_link": "https://wiki.teamfortress.com/w/images/f/fb/Unusual_Electrocution_RED.png"
   },
-  "3149": {
-    "name": "Electrocution (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/2/20/Unusual_Electrocution_BLU.png"
-  },
-  "3150": {
-    "name": "Distress Signal (RED)",
+  "3151": {
+    "name": "Distress Signal",
     "image_link": "https://wiki.teamfortress.com/w/images/4/4c/Unusual_Distress_Signal_RED.png"
   },
-  "3151": {
-    "name": "Distress Signal (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/8/8e/Unusual_Distress_Signal_BLU.png"
-  },
-  "3152": {
+  "3153": {
     "name": "Carioca's Call",
     "image_link": "https://wiki.teamfortress.com/w/images/5/53/Unusual_Carioca%27s_Call.png"
   },
-  "3153": {
-    "name": "Fiesta Royale (RED)",
+  "3154": {
+    "name": "Fiesta Royale",
     "image_link": "https://wiki.teamfortress.com/w/images/0/0a/Unusual_Fiesta_Royale_RED.png"
   },
-  "3154": {
-    "name": "Fiesta Royale (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/2/2f/Unusual_Fiesta_Royale_BLU.png"
-  },
-  "3155": {
+  "3156": {
     "name": "Grand Jubilee",
     "image_link": "https://wiki.teamfortress.com/w/images/2/21/Unusual_Grand_Jubilee.png"
   },
-  "3156": {
-    "name": "Elemental (RED)",
+  "3157": {
+    "name": "Elemental",
     "image_link": "https://wiki.teamfortress.com/w/images/a/a0/Unusual_Elemental_RED.png"
   },
-  "3157": {
-    "name": "Elemental (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/7/78/Unusual_Elemental_BLU.png"
-  },
-  "3158": {
+  "3159": {
     "name": "Godlike",
     "image_link": "https://wiki.teamfortress.com/w/images/0/06/Unusual_Godlike.png"
   },
-  "3159": {
-    "name": "Teamwork Valorance (RED)",
+  "3160": {
+    "name": "Teamwork Valorance",
     "image_link": "https://wiki.teamfortress.com/w/images/b/bd/Unusual_Teamwork_Valorance_RED.png"
   },
-  "3160": {
-    "name": "Teamwork Valorance (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/b/b0/Unusual_Teamwork_Valorance_BLU.png"
-  },
-  "3161": {
+  "3162": {
     "name": "Legacy Logo",
     "image_link": "https://wiki.teamfortress.com/w/images/0/0e/Unusual_Legacy_Logo.png"
   },
-  "3162": {
+  "3163": {
     "name": "Desert Wind",
     "image_link": "https://wiki.teamfortress.com/w/images/3/3b/Unusual_Desert_Wind.png"
   },
-  "3163": {
+  "3164": {
     "name": "Monsoon Season",
     "image_link": "https://wiki.teamfortress.com/w/images/f/ff/Unusual_Monsoon_Season.png"
   },
-  "3164": {
-    "name": "Bountiful Riches (RED)",
+  "3165": {
+    "name": "Bountiful Riches",
     "image_link": "https://wiki.teamfortress.com/w/images/a/a1/Unusual_Bountiful_Riches_RED.png"
   },
-  "3165": {
-    "name": "Bountiful Riches (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/f/f0/Unusual_Bountiful_Riches_BLU.png"
-  },
-  "3166": {
+  "3167": {
     "name": "Luxurious Lover",
     "image_link": "https://wiki.teamfortress.com/w/images/c/cf/Unusual_Luxurious_Lover.png"
   },
-  "3167": {
-    "name": "Amatory (RED)",
+  "3168": {
+    "name": "Amatory",
     "image_link": "https://wiki.teamfortress.com/w/images/c/c2/Unusual_Amatory_RED.png"
   },
-  "3168": {
-    "name": "Amatory (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/c/ce/Unusual_Amatory_BLU.png"
-  },
-  "3169": {
+  "3170": {
     "name": "Electrum",
     "image_link": "https://wiki.teamfortress.com/w/images/a/a6/Unusual_Electrum.png"
   },
-  "3170": {
-    "name": "Sakura Blessings (RED)",
+  "3171": {
+    "name": "Sakura Blessings",
     "image_link": "https://wiki.teamfortress.com/w/images/f/f4/Unusual_Sakura_Blessings_RED.png"
   },
-  "3171": {
-    "name": "Sakura Blessings (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/c/cb/Unusual_Sakura_Blessings_BLU.png"
-  },
-  "3172": {
+  "3173": {
     "name": "Violent Violets",
     "image_link": "https://wiki.teamfortress.com/w/images/5/52/Unusual_Violent_Violets.png"
   },
-  "3173": {
-    "name": "Power Pressure (RED)",
+  "3174": {
+    "name": "Power Pressure",
     "image_link": "https://wiki.teamfortress.com/w/images/1/10/Unusual_Power_Pressure_RED.png"
   },
-  "3174": {
-    "name": "Power Pressure (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/a/a2/Unusual_Power_Pressure_BLU.png"
-  },
-  "3175": {
+  "3176": {
     "name": "Magnifying Momentum",
     "image_link": "https://wiki.teamfortress.com/w/images/3/38/Unusual_Magnifying_Momentum.png"
   },
-  "3176": {
+  "3177": {
     "name": "Charging Catalyst",
     "image_link": "https://wiki.teamfortress.com/w/images/a/ac/Unusual_Charging_Catalyst.png"
   },
-  "3177": {
+  "3178": {
     "name": "Amplifying Aura",
     "image_link": "https://wiki.teamfortress.com/w/images/e/ea/Unusual_Amplifying_Aura.png"
   },
-  "3178": {
+  "3179": {
     "name": "Mystic Fusion",
     "image_link": "https://wiki.teamfortress.com/w/images/c/c0/Unusual_Mystic_Fusion.png"
   },
-  "3179": {
+  "3180": {
     "name": "Obnoxious Confetti",
     "image_link": "https://wiki.teamfortress.com/w/images/8/85/Unusual_Obnoxious_Confetti.png"
   },
-  "3180": {
+  "3181": {
     "name": "Lovable Confetti",
     "image_link": "https://wiki.teamfortress.com/w/images/d/d5/Unusual_Lovable_Confetti.png"
   },
-  "3181": {
+  "3182": {
     "name": "Confetti Celebration",
     "image_link": "https://wiki.teamfortress.com/w/images/2/27/Unusual_Confetti_Celebration.png"
   },
-  "3182": {
+  "3183": {
     "name": "Heavy Rain",
     "image_link": "https://wiki.teamfortress.com/w/images/6/63/Unusual_Heavy_Rain.png"
   },
-  "3183": {
+  "3184": {
     "name": "Pumpkin Patch",
     "image_link": "https://wiki.teamfortress.com/w/images/1/1c/Unusual_Pumpkin_Patch.png"
   },
-  "3184": {
-    "name": "Tangled Lights",
-    "image_link": "https://wiki.teamfortress.com/w/images/a/ae/Unusual_Tangled_Lights.png"
-  },
   "3185": {
-    "name": "Operatic Triumph",
-    "image_link": "https://wiki.teamfortress.com/w/images/2/26/Unusual_Operatic_Triumph.png"
-  },
-  "3186": {
-    "name": "Award Winning (RED)",
-    "image_link": "https://wiki.teamfortress.com/w/images/3/32/Unusual_Award_Winning_RED.png"
-  },
-  "3187": {
-    "name": "Award Winning (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/9/97/Unusual_Award_Winning_BLU.png"
-  },
-  "3188": {
-    "name": "Verdant Phenomenon",
-    "image_link": "https://wiki.teamfortress.com/w/images/b/b4/Unusual_Verdant_Phenomenon.png"
-  },
-  "3189": {
-    "name": "Lavender Sensation",
-    "image_link": "https://wiki.teamfortress.com/w/images/4/44/Unusual_Lavender_Sensation.png"
-  },
-  "3190": {
-    "name": "Snowy Spirit (RED)",
-    "image_link": "https://wiki.teamfortress.com/w/images/7/72/Unusual_Snowy_Spirit_RED.png"
-  },
-  "3191": {
-    "name": "Snowy Spirit (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/3/3a/Unusual_Snowy_Spirit_BLU.png"
-  },
-  "3192": {
     "name": "Snowy Day",
     "image_link": "https://wiki.teamfortress.com/w/images/3/38/Unusual_Snowy_Day.png"
   },
+  "3186": {
+    "name": "Snowy Spirit",
+    "image_link": "https://wiki.teamfortress.com/w/images/7/72/Unusual_Snowy_Spirit_RED.png"
+  },
+  "3188": {
+    "name": "Lavender Sensation",
+    "image_link": "https://wiki.teamfortress.com/w/images/4/44/Unusual_Lavender_Sensation.png"
+  },
+  "3189": {
+    "name": "Verdant Phenomenon",
+    "image_link": "https://wiki.teamfortress.com/w/images/b/b4/Unusual_Verdant_Phenomenon.png"
+  },
+  "3190": {
+    "name": "Award Winning",
+    "image_link": "https://wiki.teamfortress.com/w/images/3/32/Unusual_Award_Winning_RED.png"
+  },
+  "3192": {
+    "name": "Operatic Triumph",
+    "image_link": "https://wiki.teamfortress.com/w/images/2/26/Unusual_Operatic_Triumph.png"
+  },
   "3193": {
-    "name": "Seamine (RED)",
-    "image_link": "https://wiki.teamfortress.com/w/images/6/60/Unusual_Seamine_RED.png"
+    "name": "Tangled Lights",
+    "image_link": "https://wiki.teamfortress.com/w/images/a/ae/Unusual_Tangled_Lights.png"
   },
   "3194": {
-    "name": "Seamine (BLU)",
-    "image_link": "https://wiki.teamfortress.com/w/images/4/4e/Unusual_Seamine_BLU.png"
-  },
-  "3195": {
-    "name": "Iconic Outline (RED)",
-    "image_link": null
+    "name": "Seamine",
+    "image_link": "https://wiki.teamfortress.com/w/images/6/60/Unusual_Seamine_RED.png"
   },
   "3196": {
-    "name": "Iconic Outline (BLU)",
-    "image_link": null
-  },
-  "3197": {
-    "name": "Subtle Silhouette",
+    "name": "Iconic Outline",
     "image_link": null
   },
   "3198": {
+    "name": "Subtle Silhouette",
+    "image_link": null
+  },
+  "3199": {
     "name": "Ocean Reef",
     "image_link": "https://wiki.teamfortress.com/w/images/f/fd/Unusual_Ocean_Reef.png"
   },
-  "3199": {
+  "3200": {
     "name": "Lost Signal",
     "image_link": "https://wiki.teamfortress.com/w/images/a/a4/Unusual_Lost_Signal.png"
   },
-  "3200": {
+  "3201": {
     "name": "Summer Wave",
     "image_link": "https://wiki.teamfortress.com/w/images/c/cc/Unusual_Summer_Wave.png"
   },
-  "3201": {
+  "3202": {
     "name": "Shark Attack",
     "image_link": "https://wiki.teamfortress.com/w/images/a/ae/Unusual_Shark_Attack.png"
+  },
+  "3203": {
+    "name": "Hazardous Gas",
+    "image_link": "https://wiki.teamfortress.com/w/images/f/ff/Unusual_Hazardous_Gas.png"
+  },
+  "3204": {
+    "name": "Phantasmal Fog",
+    "image_link": "https://wiki.teamfortress.com/w/images/5/58/Unusual_Phantasmal_Fog.png"
+  },
+  "3205": {
+    "name": "Haunted Mist",
+    "image_link": "https://wiki.teamfortress.com/w/images/f/f4/Unusual_Haunted_Mist.png"
+  },
+  "3206": {
+    "name": "Split Malice",
+    "image_link": "https://wiki.teamfortress.com/w/images/2/24/Unusual_Split_Malice_RED.png"
+  },
+  "3208": {
+    "name": "Void Crawlers",
+    "image_link": "https://wiki.teamfortress.com/w/images/b/bb/Unusual_Void_Crawlers.png"
+  },
+  "3209": {
+    "name": "Fossil Fueled",
+    "image_link": null
+  },
+  "3210": {
+    "name": "Tar Pit",
+    "image_link": null
+  },
+  "3211": {
+    "name": "Morbidly Beast",
+    "image_link": "https://wiki.teamfortress.com/w/images/6/68/Unusual_Morbidly_Beast_RED.png"
   },
   "3213": {
     "name": "Snow Dome",
@@ -2342,5 +2170,25 @@
   "3223": {
     "name": "Circuit Break",
     "image_link": "https://wiki.teamfortress.com/w/images/c/ce/Unusual_Circuit_Break.png"
+  },
+  "3224": {
+    "name": "Wheat Field",
+    "image_link": null
+  },
+  "3225": {
+    "name": "Luminous Drift",
+    "image_link": null
+  },
+  "3227": {
+    "name": "Luminous Shift",
+    "image_link": null
+  },
+  "3228": {
+    "name": "Showtime Spotlights",
+    "image_link": null
+  },
+  "3229": {
+    "name": "Deep Dive",
+    "image_link": null
   }
 }
